@@ -39,7 +39,7 @@ My role combined ** interpretation, translation, and technical writing**, ensuri
 
 ---
 
-## 📌 Outcome
+##  Outcome
 - Training materials were successfully translated and adapted for international participants.  
 - Real-time interpretation enabled smooth communication between instructors and trainees.  
 - The project demonstrates my ability to combine **translation, technical writing, and subject-matter expertise** in demanding, safety-critical environments.
