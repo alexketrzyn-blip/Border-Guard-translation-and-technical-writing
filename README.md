@@ -2,7 +2,7 @@
 
 ##  Overview
 This repository contains selected fragments of **specialized training instructions** prepared for Border Guard officers.  
-My role combined ** interpretation, translation, and technical writing**, ensuring that training materials and live instructions were accessible to international participants.
+My role combined **interpretation, translation, and technical writing**, ensuring that training materials and live instructions were accessible to international participants.
 
 ---
 
